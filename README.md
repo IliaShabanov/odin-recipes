@@ -7,3 +7,5 @@ This project is the indicator of my understanding of what I've studied about HTM
 2) Use different HTML elements, such as "p", "strong", "em", "h1-6", "ul" and "ol" and some others
 3) Add hyperlinks and images to the site
 4) Create and use repos for the projects
+
+Meow-meow!

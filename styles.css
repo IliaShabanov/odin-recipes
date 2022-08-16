@@ -1,0 +1,28 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: hsl(342, 100%, 92%);
+text-align: center;
+font-size: 20px;
+}
+
+h1 {
+font-size: 50px;
+font-weight: bold;
+color: #276359;
+text-align: center;
+}
+
+button {
+    font-size: 20px;
+    background-color: #FCAC89;
+}
+
+p {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.list {
+    text-align: left;
+}
+
